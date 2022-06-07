@@ -6,3 +6,4 @@
     <project path="device/samsung/zeroltexx" name="JeyKul/android_device_samsung_zeroltexx" remote="github" revision="Arrow12" />
 	
 </manifest>
+
